@@ -1,0 +1,1 @@
+ica entre %.2f e %.2f e: %.2f\n", valor1, valor2, media);
